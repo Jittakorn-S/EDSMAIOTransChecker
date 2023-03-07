@@ -1,6 +1,6 @@
-# EDSMAIOTransChecker
+# EDS MAIOTrans Checker
 
-EDSMAIOTransChecker is a.NET task application to check files in a folder and then notify LINE.
+EDS MAIOTrans Checker is a.NET task application to check files in a folder and then notify LINE.
 
 ## Installation
 
